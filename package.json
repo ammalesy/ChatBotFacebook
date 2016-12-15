@@ -1,0 +1,19 @@
+{
+"name": "BotFacebook",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "author": "Ammales Yamsompong",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
